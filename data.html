@@ -7,33 +7,36 @@
 <link rel="stylesheet" href="style.css">
 
 <title>Data</title>
+<p>Displays a responsive table containing the data used in the visualizations.
+  The table must be a bootstrap table component. Hint
+  The data must come from exporting the .csv file as HTML, or converting it to HTML. Try using a tool you already know, pandas. Pandas has a nifty method approprately called to_html that allows you to generate a HTML table from a pandas dataframe. See the documentation here</p>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Latitude vs. Temperature</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Latitude vs. Humidity</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Latitude vs. Wind Speed</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Latitude vs. Cloudiness</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Comparison</a>
-            </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="#">Data</a>
-            </li>
-        </ul>
-    </div>
+  <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+          <li class="nav-item">
+              <a class="nav-link" href="landing">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="viz1">Latitude vs. Temperature</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="viz2">Latitude vs. Humidity</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="viz3">Latitude vs. Wind Speed</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="viz4">Latitude vs. Cloudiness</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="comparisons">Comparison</a>
+          </li>
+          <li class="nav-item active">
+              <a class="nav-link" href="data">Data</a>
+          </li>
+      </ul>
+  </div>
 </nav>
 
 <div class="table-responsive">
