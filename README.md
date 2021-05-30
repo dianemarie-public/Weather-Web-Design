@@ -15,4 +15,3 @@
     * page with responsive table containing data from [Resources](https://github.com/dianewitt/web-design/tree/main/Resources)
 
 ![Web-Design](assets/web-design.jpg)
- ![Web-Design](assets/web-design.jpg)
