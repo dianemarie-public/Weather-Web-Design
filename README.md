@@ -17,4 +17,4 @@
 * Web Design
 
 
-    ![web-design](assets/web-design.png)
+    ![web-design](assets/web-design.PNG)
