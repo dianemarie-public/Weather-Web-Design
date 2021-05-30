@@ -13,3 +13,5 @@
     * page with each visualization, for comparison, using a bootstrap grid from [assets](https://github.com/dianewitt/web-design/tree/main/assets)
 * Data Page
     * page with responsive table containing data from [Resources](https://github.com/dianewitt/web-design/tree/main/Resources)
+
+ ![Web-Design](assets/web-design.jpg)
